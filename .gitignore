@@ -1,0 +1,13 @@
+# Réglages personnels et fichiers Apple locaux
+export.local.config
+ExportOptions.plist
+*.p12
+*.mobileprovision
+
+# Résultats de compilation
+verification-output/
+IPA-Exports/
+*.ipa
+*.xcarchive/
+compilation-*.log
+.DS_Store
